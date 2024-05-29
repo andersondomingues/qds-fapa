@@ -12,6 +12,7 @@ Este projeto é um exemplo de como utilizar o github de uma forma simples.
 # comandos do git (branches)
 - `git checkout -b <nome>`: cria uma nova branch 
 - `git checkout <nome>`: ativa uma branch já existente
+- `git push --set-upstream origin testes`: cria uma nova branch no servidor remoto no momento do primeiro push
 
 
 # comandos do python
