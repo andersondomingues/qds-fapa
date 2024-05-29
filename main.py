@@ -3,3 +3,6 @@ def soma(a: int, b: int) -> int:
 
 def subtracao(a: int, b:int) -> int:
     return a - b
+
+def multiplicacao(a: int, b: int) -> int:
+    return a * b
