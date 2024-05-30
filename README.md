@@ -1,7 +1,7 @@
 # qds-fapa
 
 <a href="#" target="_blank">
-    <img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="Test">
+    <img src="badges/tests.svg" alt="Test">
 </a>
 
 Este projeto é um exemplo de como utilizar o github de uma forma simples.
