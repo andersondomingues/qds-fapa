@@ -8,4 +8,4 @@ def test_soma_outro():
     assert soma(soma(2,3), 5) == 10
 
 def test_subtracao():
-    assert subtracao(1, 2) == -1
+    assert subtracao(2, 2) == -1
